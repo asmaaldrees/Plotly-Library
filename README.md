@@ -1,2 +1,2 @@
 # Plotly-Library
-An Overview of Plotly Python Open Source Graphing Library.
+An cheatsheet of Plotly Python Open Source Graphing Library.
